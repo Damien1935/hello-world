@@ -1,4 +1,4 @@
-# hello-world
+# HELLO WORLD
 
 WELCOME HUMANS!
 
